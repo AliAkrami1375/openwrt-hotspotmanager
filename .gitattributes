@@ -1,0 +1,3 @@
+*.ipk binary
+*.tar.gz binary
+* text=auto eol=lf
